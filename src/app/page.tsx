@@ -133,7 +133,7 @@ const LOCATIONS = [
   {
     name: "Elysian SCBD",
     area: "Sudirman Central Business District",
-    image: "https://images.unsplash.com/photo-1572331165267-854da2b021b1?w=800&q=80",
+    image: "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?w=800&q=80",
     distances: [
       { place: "Pacific Place Mall", time: "3 min walk" },
       { place: "MRT Istora Station", time: "5 min walk" },
